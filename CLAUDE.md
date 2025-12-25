@@ -218,7 +218,7 @@ When working in this repository or using these agents, use consistent terminolog
 
 ## Creating CLAUDE.md for Consumer Projects
 
-When creating CLAUDE.md files for projects that use these agents (like lingodrift, akpandeya.com, oracle-infrastructure), include these sections:
+When creating CLAUDE.md files for projects that use these agents (like lingodrift, akpandeya.com, exterminator-infra), include these sections:
 
 ### Recommended Template Structure
 
@@ -288,7 +288,7 @@ Uses agents from `../agentic-workflows`:
 
 ## Related Repositories
 - `../agentic-workflows` - TDD/DDD agent definitions
-- `../oracle-infrastructure` - Deployment infrastructure
+- `../exterminator-infra` - Caddy web server infrastructure
 
 ## SSH and Git Permissions
 Uses 1Password for credential management. Test connections early:
